@@ -7,5 +7,5 @@ and are licensed individually under Public Domain, CC0, CC BY, or CC BY-SA
 licenses. These images are NOT owned by RandomMappingDude and remain under
 their respective original licenses.
 
-Please see the CREDITS or LICENSES file for full attribution and licensing
+Please see the LICENSES file for full attribution and licensing
 details.
