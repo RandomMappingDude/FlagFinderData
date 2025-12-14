@@ -1,4 +1,11 @@
-Hello!
-Here's where all the data for my application, FlagFinder, can be found.
+Hello! This repository contains data for the application “FlagFinder”.
 
-All content in this repository, including flag images and metadata, is © RandomMappingDude and may not be copied, modified, or redistributed without explicit permission.
+All metadata .csv files are © RandomMappingDude.
+
+Flag images included in this repository are sourced from Wikimedia Commons
+and are licensed individually under Public Domain, CC0, CC BY, or CC BY-SA
+licenses. These images are NOT owned by RandomMappingDude and remain under
+their respective original licenses.
+
+Please see the CREDITS or LICENSES file for full attribution and licensing
+details.
