@@ -1,0 +1,87 @@
+# Flag Image Licenses & Attributions
+
+This file applies **only to flag images** used by the application
+**FlagFinder** and included in this repository.
+
+---
+
+## Source of Images
+
+All flag images are sourced from **Wikimedia Commons**
+(https://commons.wikimedia.org).
+
+The images are **not owned** by the repository or application author and
+remain under their respective original licenses.
+
+---
+
+## Licensing Overview
+
+Flag images in this project are licensed individually under one of the
+following licenses:
+
+- **Public Domain**
+  (including PD-old, PD-ineligible, PD-government, PD-author)
+- **CC0 1.0 Universal**
+- **Creative Commons Attribution (CC BY)**
+- **Creative Commons Attribution–ShareAlike (CC BY-SA)**
+
+Images licensed under **Public Domain** or **CC0** may be used without
+attribution.
+
+Images licensed under **CC BY** or **CC BY-SA** require attribution, which
+is provided in consolidated form below.
+
+---
+
+## Consolidated Image Credits
+
+Attribution for all **CC BY** and **CC BY-SA** licensed images is provided
+using the following format:
+
+[Country / Entity] ([Years]) — [Author] — [License] — Wikimedia Commons
+
+Afghanistan (1901 - 1919) - QWerk - CC BY-SA 3.0 - Wikimedia Commons
+Afghanistan (1928) - Fornax - CC BY-SA 3.0 - Wikimedia Commons
+Afghanistan (2001 - 2002) - Saul ip (derivative work of MS05L) - CC BY-SA 3.0 - Wikimedia Commons
+Andorra (1939 - 1949) - Heralder - CC BY-SA 4.0 - Wikipedia Commons
+Andorra (1949 - 1959) - Heralder - CC BY-SA 4.0 - Wikipedia Commons
+
+Changes made to images may include resizing, format conversion, or minor
+visual adjustments. No significant artistic modifications have been made.
+
+---
+
+## License Texts
+
+The full texts of the applicable licenses are available at:
+
+- CC BY 4.0  
+  https://creativecommons.org/licenses/by/4.0/
+
+- CC BY-SA 4.0  
+  https://creativecommons.org/licenses/by-sa/4.0/
+
+- CC BY-SA 3.0  
+  https://creativecommons.org/licenses/by-sa/3.0/
+
+- CC0 1.0 Universal  
+  https://creativecommons.org/publicdomain/zero/1.0/
+
+---
+
+## Scope of This File
+
+This file covers **only flag images**.
+
+Application source code, UI design, and original non-image data are
+licensed separately and are not covered by this file.
+
+---
+
+## Disclaimer
+
+FlagFinder is an educational and informational project.
+
+The inclusion of historical flags or symbols does not imply endorsement of
+any government, ideology, or political entity, past or present.
